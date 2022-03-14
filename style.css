@@ -31,3 +31,6 @@
 .wrong{
     background: #e96464 !important;
 }
+#question{
+background-image:url("bg.jpg") !important;
+}
